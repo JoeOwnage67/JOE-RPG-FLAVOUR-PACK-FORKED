@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+    <name>RPG Adventure Flavour Pack - Fork</name>
+    <author>MrSamuelStreamer, Feldoh, Skullywag, Sandwish, JoeOwnage</author>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <packageId>Joe.RPGAdventureFlavour.Fork</packageId>
+    <description>Patches, retextures, RimThemes, and thematic changes for the RPG Adventure Pack!</description>
+    <url>https://steamcommunity.com/sharedfiles/filedetails/?id=2916348220</url>
+    <modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+            <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+        </li>
+        <li>
+            <packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+            <displayName>Vanilla Expanded Framework</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
+	    </li>
+    </modDependencies>
+    <loadAfter>
+        
+        <!--original-->
+        <li>Ludeon.RimWorld</li>
+        <li>Ludeon.RimWorld.Ideology</li>
+        <li>Ludeon.RimWorld.Royalty</li>
+        <li>Ludeon.RimWorld.Biotech</li>
+        <li>Ludeon.RimWorld.Anomaly</li>
+        <li>VanillaExpanded.VPsycastsE</li>        
+        <li>sarg.alphaanimals</li>
+        <li>mlie.rimquest</li>
+        <li>VanillaExpanded.VFESecurity</li>
+        <li>Neronix17.Outland.Core</li>        
+        <li>jaxe.rimhud</li>
+        <li>VanillaExpanded.VTEXE</li>
+        <li>tidal.morevanilla.textures</li>        
+        <li>marvinkosh.sometimesraidsgowrong</li>
+        <li>Aoba.Tent</li>        
+        <li>vanillaracesexpanded.archon</li>        
+        <li>ccyt.stargatesmod</li>
+        <li>RedMattis.LamiasAndOtherSnakes</li>
+        <li>RedMattis.Yokai</li>
+        <li>RedMattis.MoreXenos</li>
+        <li>RedMattis.BigSmall</li>
+        <li>Redmattis.Undead</li>
+        <li>det.stoneborn</li>   
+        <li>DankPyon.Medieval.Overhaul</li>
+        <li>aRandomKiwi.RimThemes</li>
+        <li>orion.cashregister</li>
+        <li>orion.hospitality</li>
+        <li>jdalt.levelthis</li>
+        <li>Turkler.MedievalOverhaul.ArcaneArchaeologists</li>    
+     
+		<!--fork-->
+		<li>JoeDaly.MedMeds.MO</li>
+		<li>Sabrael.FRBELoxo</li>
+        <li>Rebuild.COTR.DoorsandCorners</li>       
+        <li>zal.eyeprosthetics</li>		
+		<li>RedMattis.BetterPrerequisites</li>	
+		<li>RedMattis.BigSmall.Core</li>
+		<li>Wara.toomanymods</li>
+		<li>pphhyy.BoneReapers</li>
+		<li>Sabrael.FRBEGnolls</li>
+		<li>BotchJob.medievalfantasyquestrewards</li>
+		<li>BotchJob.medievalfantasyrareresources</li>
+		<li>LTS.PG</li>
+		<li>Neronix17.ForgottenRealms</li>
+		<li>sarg.alphagenes</li>
+		<li>zal.eyeprosthetics</li>
+		<li>Sierra.RF.MedievalOverhaul</li>
+        <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+        
+    </loadAfter>
+    <!--<incompatibleWith>
+		<li>OskarPotocki.VFE.Medieval2</li>
+	</incompatibleWith>-->
+</ModMetaData>
