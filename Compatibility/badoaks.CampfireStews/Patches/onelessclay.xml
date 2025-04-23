@@ -32,58 +32,5 @@
 
     <Operation Class="PatchOperationRemove">
 		<xpath>Defs/RecipeDef[defName="CS_MakeWetClayPot"]/defaultIngredientFilter/thingDefs/li[.="CS_RawClay"]</xpath>				
-	</Operation>
-
-    <!-- stuffable metal pot -->
-    <Operation Class="PatchOperationRemove">
-		<xpath>Defs/RecipeDef[defName="CS_ForgeIronPot"]</xpath>				
-	</Operation>
-
-    <Operation Class="PatchOperationAdd">
-        <xpath>Defs/ThingDef[defName="CS_CookingPotIron"]</xpath>
-        <value>
-            <recipeMaker>
-                <recipeUsers>
-                    <li>ElectricSmithy</li>
-                    <li>FueledSmithy</li>
-                    <li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_Anvil</li>
-                </recipeUsers>
-                <skillRequirements>
-                    <Crafting>4</Crafting>
-                </skillRequirements>
-            </recipeMaker>
-            <stuffCategories>
-                <li>Metallic</li>
-            </stuffCategories>
-            <costStuffCount>100</costStuffCount>
-        </value>             
-    </Operation>
-
-    <Operation Class="PatchOperationReplace">
-        <xpath>Defs/ThingDef[defName="CS_CookingPotIron"]/label</xpath>
-        <value>
-            <label>metal cooking pot</label>
-        </value>             
-    </Operation>
-
-    <Operation Class="PatchOperationReplace">
-        <xpath>Defs/ThingDef[defName="CS_CookingPotIron"]/description</xpath>
-        <value>
-            <description>A large pot for cooking with liquid over a campfire. It is made of cast metal and is remarkably durable.</description>
-        </value>             
-    </Operation>
-
-    <Operation Class="PatchOperationReplace">
-        <xpath>Defs/ThingDef[defName="CS_WetPotClay"]/description</xpath>
-        <value>
-            <description>A wet clay cooking pot. Must be left to dry before it can be fired.</description>
-        </value>             
-    </Operation>
-
-    <Operation Class="PatchOperationReplace">
-        <xpath>Defs/ThingDef[defName="CS_UnfiredPotClay"]/description</xpath>
-        <value>
-            <description>A dry unfired clay cooking pot. Must be fired before it can be used for cooking.</description>
-        </value>             
-    </Operation>
+	</Operation>   
 </Patch>
