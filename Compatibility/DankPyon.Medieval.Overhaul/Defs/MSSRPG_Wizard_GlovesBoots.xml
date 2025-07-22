@@ -63,7 +63,7 @@
             <recipeUsers>
                 <li>ElectricTailoringBench</li>
                 <li>HandTailoringBench</li>
-                <li>DankPyon_TailorsBench</li>
+                <!-- <li>DankPyon_TailorsBench</li>-->
             </recipeUsers>
             <displayPriority>290</displayPriority>
         </recipeMaker>
@@ -137,7 +137,7 @@
             <recipeUsers Inherit="False">
                 <li>ElectricTailoringBench</li>
                 <li>HandTailoringBench</li>
-                <li>DankPyon_TailorsBench</li>
+                <!--<li>DankPyon_TailorsBench</li>-->
             </recipeUsers>
 			<displayPriority>290</displayPriority>
         </recipeMaker>

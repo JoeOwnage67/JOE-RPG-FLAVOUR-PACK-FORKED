@@ -14,13 +14,12 @@
 					<bodyPartGroups>
 						<blacklist>
 							<li>FullHead</li>
-							<li>UpperHead</li>
-							<li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_InnerHelmet</li>							
+							<li>UpperHead</li>						
 						</blacklist>
 					</bodyPartGroups>
 				</apparelRestrictions>
 			</li>
-			<li Class="VanillaGenesExpanded.GeneExtension">
+			<li MayRequire="OskarPotocki.VanillaFactionsExpanded.Core" Class="VEF.Genes.GeneExtension">
 		    	<backgroundPathEndogenes>UI/Genes/Endogene</backgroundPathEndogenes>
 		        <backgroundPathXenogenes>UI/Genes/Xenogene</backgroundPathXenogenes>
 			</li>
