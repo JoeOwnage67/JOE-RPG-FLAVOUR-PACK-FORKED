@@ -36,7 +36,6 @@
             <recipeUsers>
                 <li>ElectricTailoringBench</li>
                 <li>HandTailoringBench</li>
-                <!--<li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_TailorsBench</li>-->
             </recipeUsers>
             <skillRequirements>
                 <Crafting>8</Crafting>
