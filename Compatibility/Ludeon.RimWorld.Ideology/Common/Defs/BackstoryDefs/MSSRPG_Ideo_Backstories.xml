@@ -17,8 +17,8 @@
             <li>ImperialFighter</li>
         </spawnCategories>
         <skillGains>
-            <li><key>Animals</key><value>1</value></li>
-            <li><key>Artistic</key><value>1</value></li>
+            <Animals>1</Animals>
+            <Artistic>1</Artistic>
         </skillGains>
     </BackstoryDef>
 
@@ -37,8 +37,8 @@
             <li>ImperialFighter</li>
         </spawnCategories>
         <skillGains>
-            <li><key>Cooking</key><value>1</value></li>
-            <li><key>Plants</key><value>1</value></li>
+            <Cooking>1</Cooking>
+            <Plants>1</Plants>
         </skillGains>
     </BackstoryDef>
 
@@ -57,8 +57,8 @@
             <li>ImperialFighter</li>
         </spawnCategories>
         <skillGains>
-            <li><key>Medicine</key><value>1</value></li>
-            <li><key>Social</key><value>1</value></li>
+            <Medicine>1</Medicine>
+            <Social>1</Social>
         </skillGains>
     </BackstoryDef>
 
@@ -77,9 +77,9 @@
             <li>ImperialFighter</li>
         </spawnCategories>
         <skillGains>
-            <li><key>Melee</key><value>1</value></li>
-            <li><key>Intellectual</key><value>2</value></li>
-            <li><key>Social</key><value>-1</value></li>
+            <Melee>1</Melee>
+            <Intellectual>2</Intellectual>
+            <Social>-1</Social>
         </skillGains>
     </BackstoryDef>
 
@@ -98,8 +98,8 @@
             <li>ImperialFighter</li>
         </spawnCategories>
         <skillGains>
-            <li><key>Animals</key><value>1</value></li>
-            <li><key>Plants</key><value>1</value></li>
+            <Animals>1</Animals>
+            <Plants>1</Plants>
         </skillGains>
     </BackstoryDef>
 
@@ -118,9 +118,9 @@
             <li>ImperialFighter</li>
         </spawnCategories>
         <skillGains>
-            <li><key>Melee</key><value>2</value></li>
-            <li><key>Shooting</key><value>1</value></li>
-            <li><key>Social</key><value>-2</value></li>
+            <Melee>2</Melee>
+            <Shooting>1</Shooting>
+            <Social>-2</Social>
         </skillGains>
     </BackstoryDef>
 
