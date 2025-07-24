@@ -80,7 +80,7 @@
 		<iconPath>UI/Icons/Genes/Gene_WarforgedBody</iconPath>
 		<skinColorOverride>(102, 102, 105)</skinColorOverride>	
 		<modExtensions>
-			<li MayRequire="sarg.alphagenes" Class="VEF.Genes.GeneExtension">
+			<li MayRequire="OskarPotocki.VanillaFactionsExpanded.Core" Class="VEF.Genes.GeneExtension">
 		    	<backgroundPathEndogenes>UI/Genes/Endogene</backgroundPathEndogenes>
 		        <backgroundPathXenogenes>UI/Genes/Xenogene</backgroundPathXenogenes>				
 		    </li>
