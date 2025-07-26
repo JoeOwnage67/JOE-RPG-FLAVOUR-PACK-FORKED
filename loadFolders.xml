@@ -34,7 +34,7 @@
     <li>Common</li>
     <li>1.6</li>
     
-    <!-- <li IfModActive="Accurex.MedievalEmpireOverhaul">Compatibility/Accurex.MedievalEmpireOverhaul</li> errors (textures from MO) -->
+    <li IfModActive="Accurex.MedievalEmpireOverhaul">Compatibility/Accurex.MedievalEmpireOverhaul</li>
     <li IfModActive="badoaks.CampfireStews">Compatibility/badoaks.CampfireStews</li>
     <li IfModActive="DankPyon.Medieval.Overhaul">Compatibility/DankPyon.Medieval.Overhaul</li>
     <!-- <li IfModActive="ccyt.stargatesmod">Compatibility/CCYT.StargatesMod</li> needs 1.6 -->
