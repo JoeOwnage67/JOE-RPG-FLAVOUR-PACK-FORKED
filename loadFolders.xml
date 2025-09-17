@@ -5,59 +5,48 @@
     <li>Common</li>
     <li>1.5</li>
 
-    <li IfModActive="Ludeon.RimWorld.Biotech">Compatibility/Ludeon.RimWorld.Biotech</li>
-    <li IfModActive="Ludeon.RimWorld.Royalty">Compatibility/Ludeon.RimWorld.Royalty</li>
-    <li IfModActive="Ludeon.RimWorld.Ideology">Compatibility/Ludeon.RimWorld.Ideology/Common</li>
-    <li IfModActive="Ludeon.RimWorld.Ideology">Compatibility/Ludeon.RimWorld.Ideology</li>
-    <li IfModActive="VanillaExpanded.VPsycastsE">Compatibility/VanillaExpanded.VPsycastsE</li>
-    <li IfModActive="sarg.alphaanimals">Compatibility/sarg.alphaanimals</li>
-    <li IfModActive="sarg.alphagenes">Compatibility/sarg.alphagenes</li> 
-    <li IfModActive="DankPyon.Medieval.Overhaul">Compatibility/DankPyon.Medieval.Overhaul</li>   
-    <li IfModActive="redmattis.bigsmall.core">Compatibility/redmattis.bigsmall.core</li>
-    <li IfModActive="vanillaracesexpanded.archon">Compatibility/vanillaracesexpanded.archon</li>    
     <li IfModActive="Accurex.MedievalEmpireOverhaul">Compatibility/Accurex.MedievalEmpireOverhaul</li>
-    <li IfModActive="Turkler.MedievalOverhaul.ArcaneArchaeologists">Compatibility/Turkler.MedievalOverhaul.ArcaneArchaeologists</li>
-    <li IfModActive="vanillaexpanded.vpe.hemosage">Compatibility/vanillaexpanded.vpe.hemosage</li>
+    <li IfModActive="DankPyon.Medieval.Overhaul">Compatibility/DankPyon.Medieval.Overhaul</li>
     <li IfModActive="ccyt.stargatesmod">Compatibility/CCYT.StargatesMod</li>
-    <li IfModActive="vanillaexpanded.outposts">Compatibility/vanillaexpanded.outposts</li>
-    <li IfModActive="RedMattis.BetterPrerequisites">Compatibility/RedMattis.BetterPrerequisites</li>
-    <li IfModActive="zal.eyeprosthetics">Compatibility/zal.eyeprosthetics</li>
-    <li IfModActive="Sabrael.FRBELoxo">Compatibility/FRBELoxo</li>
     <li IfModActive="JoeDaly.MedMeds.MO">Compatibility/JoeDaly.MedMeds.MO</li>
-    <li IfModActive="Rebuild.COTR.DoorsandCorners">Compatibility/Rebuild.COTR.DoorsandCorners</li>
-    <li IfModActive="Sabrael.FRBEGnolls">Compatibility/Sabrael.FRBEGnolls</li>
-    <li IfModActive="badoaks.CampfireStews">Compatibility/badoaks.CampfireStews</li>    
-  </v1.5>
+    <li IfModActive="Ludeon.RimWorld.Biotech">Compatibility/Ludeon.RimWorld.Biotech</li>
+    <li IfModActive="Ludeon.RimWorld.Ideology">Compatibility/Ludeon.RimWorld.Ideology</li>
+    <li IfModActive="Ludeon.RimWorld.Ideology">Compatibility/Ludeon.RimWorld.Ideology/Common</li>
+    <li IfModActive="Ludeon.RimWorld.Royalty">Compatibility/Ludeon.RimWorld.Royalty</li>
+    <li IfModActive="redmattis.bigsmall.core">Compatibility/redmattis.bigsmall.core</li>
+    <li IfModActive="sarg.alphaanimals">Compatibility/sarg.alphaanimals</li>
+    <li IfModActive="sarg.alphagenes">Compatibility/sarg.alphagenes</li>
+    <li IfModActive="Turkler.MedievalOverhaul.ArcaneArchaeologists">Compatibility/Turkler.MedievalOverhaul.ArcaneArchaeologists</li>
+    <li IfModActive="VanillaExpanded.VPsycastsE">Compatibility/VanillaExpanded.VPsycastsE</li>
+    <li IfModActive="vanillaexpanded.outposts">Compatibility/vanillaexpanded.outposts</li>
+    <li IfModActive="vanillaexpanded.vpe.hemosage">Compatibility/vanillaexpanded.vpe.hemosage</li>
+    <li IfModActive="vanillaracesexpanded.archon">Compatibility/vanillaracesexpanded.archon</li>
+    <li IfModActive="zal.levelthis">Compatibility/zal.levelthis</li>
+    
+</v1.5>
 
-    <v1.6>
+<v1.6>
+
     <li>/</li>
     <li>Common</li>
     <li>1.6</li>
     
     <li IfModActive="Accurex.MedievalEmpireOverhaul">Compatibility/Accurex.MedievalEmpireOverhaul</li>
-    <li IfModActive="badoaks.CampfireStews">Compatibility/badoaks.CampfireStews</li>
     <li IfModActive="DankPyon.Medieval.Overhaul">Compatibility/DankPyon.Medieval.Overhaul</li>
-    <!-- <li IfModActive="ccyt.stargatesmod">Compatibility/CCYT.StargatesMod</li> needs 1.6 -->
+    <li IfModActive="ccyt.stargatesmod">Compatibility/CCYT.StargatesMod</li>
     <li IfModActive="JoeDaly.MedMeds.MO">Compatibility/JoeDaly.MedMeds.MO</li>
     <li IfModActive="Ludeon.RimWorld.Biotech">Compatibility/Ludeon.RimWorld.Biotech</li>
     <li IfModActive="Ludeon.RimWorld.Ideology">Compatibility/Ludeon.RimWorld.Ideology</li>
     <li IfModActive="Ludeon.RimWorld.Ideology">Compatibility/Ludeon.RimWorld.Ideology/Common</li>
     <li IfModActive="Ludeon.RimWorld.Royalty">Compatibility/Ludeon.RimWorld.Royalty</li>
-    <li IfModActive="RedMattis.BetterPrerequisites">Compatibility/RedMattis.BetterPrerequisites</li>
-    <li IfModActive="RedMattis.Undead">Compatibility/RedMattis.Undead</li>
-    <li IfModActive="Rebuild.COTR.DoorsandCorners">Compatibility/Rebuild.COTR.DoorsandCorners</li>
     <li IfModActive="redmattis.bigsmall.core">Compatibility/redmattis.bigsmall.core</li>
-    <!-- <li IfModActive="Sabrael.FRBEGnolls">Compatibility/Sabrael.FRBEGnolls</li> needs 1.6 -->
-    <!-- <li IfModActive="Sabrael.FRBELoxo">Compatibility/FRBELoxo</li> needs 1.6 -->
     <li IfModActive="sarg.alphaanimals">Compatibility/sarg.alphaanimals</li>
     <li IfModActive="sarg.alphagenes">Compatibility/sarg.alphagenes</li>
-    <!-- <li IfModActive="Turkler.MedievalOverhaul.ArcaneArchaeologists">Compatibility/Turkler.MedievalOverhaul.ArcaneArchaeologists</li> needs 1.6-->
-    <!-- <li IfModActive="VanillaExpanded.VPsycastsE">Compatibility/VanillaExpanded.VPsycastsE</li> borked assembly -->
+    <li IfModActive="Turkler.MedievalOverhaul.ArcaneArchaeologists">Compatibility/Turkler.MedievalOverhaul.ArcaneArchaeologists</li>
+    <li IfModActive="VanillaExpanded.VPsycastsE">Compatibility/VanillaExpanded.VPsycastsE</li>
     <li IfModActive="vanillaexpanded.outposts">Compatibility/vanillaexpanded.outposts</li>
     <li IfModActive="vanillaexpanded.vpe.hemosage">Compatibility/vanillaexpanded.vpe.hemosage</li>
     <li IfModActive="vanillaracesexpanded.archon">Compatibility/vanillaracesexpanded.archon</li>
-    <li IfModActive="vanillaracesexpanded.sanguophage">Compatibility/vanillaracesexpanded.sanguophage</li>
-    <li IfModActive="zal.eyeprosthetics">Compatibility/zal.eyeprosthetics</li>
     <li IfModActive="zal.levelthis">Compatibility/zal.levelthis</li>
 
 

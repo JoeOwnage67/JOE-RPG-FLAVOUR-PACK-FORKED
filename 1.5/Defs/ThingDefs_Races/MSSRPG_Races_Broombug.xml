@@ -15,7 +15,6 @@
             <LeatherAmount>0</LeatherAmount>
             <ArmorRating_Blunt>0.18</ArmorRating_Blunt>
             <ArmorRating_Sharp>0.27</ArmorRating_Sharp>
-            <wildness>0.1</wildness>
         </statBases>
         <uiIconScale>1.15</uiIconScale>
         <tools>
@@ -39,7 +38,6 @@
             <baseHealthScale>2.5</baseHealthScale>
             <meatLabel>insect meat</meatLabel>
             <lifeExpectancy>6</lifeExpectancy>
-            
             <herdMigrationAllowed>true</herdMigrationAllowed>
             <giveNonToolUserBeatFireVerb>true</giveNonToolUserBeatFireVerb>
             <manhunterOnTameFailChance>0</manhunterOnTameFailChance>
