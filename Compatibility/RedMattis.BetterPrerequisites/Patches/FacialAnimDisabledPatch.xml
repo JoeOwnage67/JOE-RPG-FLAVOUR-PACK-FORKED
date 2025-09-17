@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <Patch>	
-			<!-- SAB loxodon -->
+			<!-- SAB loxodon 
 				<Operation Class="PatchOperationFindMod">
 					<mods>
 						<li>FRBE Addon - Loxo</li>
@@ -13,9 +13,9 @@
 							<li MayRequire="redmattis.bigsmall.core">Joe_CannotWearHats</li> 	
 						</value>   
 					</match>
-				</Operation>
+				</Operation>-->
 
-				<!-- Aard gnoll -->
+				<!-- Aard gnoll 
 				<Operation Class="PatchOperationFindMod">
 					<mods>
 						<li>FRBE Addon - Gnolls</li>
@@ -26,9 +26,9 @@
 							<li MayRequire="nals.facialanimation">BS_FacialAnimDisabled</li>	
 						</value>   
 					</match>
-				</Operation>
-				
-				<!-- Flind Gnoll -->
+				</Operation>-->
+
+				<!-- Flind Gnoll 
 				<Operation Class="PatchOperationFindMod">
 					<mods>
 						<li>FRBE Addon - Gnolls</li>
@@ -39,9 +39,9 @@
 							  <li MayRequire="nals.facialanimation">BS_FacialAnimDisabled</li>												
 						</value>   
 					</match>
-				</Operation>
+				</Operation>-->
 				
-				<!-- gnoll base -->
+				<!-- gnoll base 
 				<Operation Class="PatchOperationFindMod">
 					<mods>
 						<li>FRBE Addon - Gnolls</li>
@@ -52,9 +52,9 @@
 							  <li MayRequire="nals.facialanimation">BS_FacialAnimDisabled</li>											
 						</value>   
 					</match>
-				</Operation>
+				</Operation>-->
 				
-				<!-- Bonereapers -->
+				<!-- Bonereapers 
 				<Operation Class="PatchOperationFindMod">
 					<mods>
 						<li>pphhyy BoneReapers</li>
@@ -65,9 +65,9 @@
 							  <li MayRequire="nals.facialanimation">BS_FacialAnimDisabled</li>							   							
 						</value>   
 					</match>
-				</Operation>
+				</Operation>-->
 				
-				<Operation Class="PatchOperationFindMod">
+				<!-- <Operation Class="PatchOperationFindMod">
 					<mods>
 						<li>pphhyy BoneReapers</li>
 					</mods>
@@ -113,9 +113,9 @@
 							  <li MayRequire="nals.facialanimation">BS_FacialAnimDisabled</li>
 						</value>   
 					</match>
-				</Operation>		
+				</Operation>		-->
 				
-				<!-- Alpha Genes -->
+				<!-- Alpha Genes 
 				<Operation Class="PatchOperationFindMod">
 					<mods>
 						<li>Alpha Genes</li>
@@ -150,9 +150,9 @@
 							<li MayRequire="nals.facialanimation">BS_FacialAnimDisabled</li>
 						</value>   
 					</match>
-				</Operation>
+				</Operation>-->
 				
-				<!--remove illithid crown -->
+				<!--remove illithid crown 
 				<Operation Class="PatchOperationFindMod">
 					<mods>
 						<li>Alpha Genes</li>
@@ -172,9 +172,9 @@
 							<li MayRequire="nals.facialanimation">BS_FacialAnimDisabled</li>
 						</value>   
 					</match>
-				</Operation>
+				</Operation>-->
 				
-				<Operation Class="PatchOperationFindMod">
+				<!--<Operation Class="PatchOperationFindMod">
 					<mods>
 						<li>Alpha Genes</li>
 					</mods>
@@ -196,9 +196,9 @@
 							<li MayRequire="nals.facialanimation">BS_FacialAnimDisabled</li>							
 						</value>   
 					</match>
-				</Operation>
+				</Operation>-->
 
-				<!-- Forgotten Realms -->
+				<!-- Forgotten Realms
 				<Operation Class="PatchOperationFindMod">
 					<mods>
 						<li>Forgotten Realms - Biotech Edition</li>
@@ -221,6 +221,6 @@
 							<li MayRequire="nals.facialanimation">BS_FacialAnimDisabled</li>
 						</value>   
 					</match>
-				</Operation>
+				</Operation>-->
 		
 </Patch>

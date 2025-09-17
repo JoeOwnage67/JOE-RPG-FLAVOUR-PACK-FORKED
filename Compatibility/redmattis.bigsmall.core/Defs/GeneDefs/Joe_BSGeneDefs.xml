@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
-
+<!--
 <GeneDef MayRequire="redmattis.bigsmall.core">
 		<defName>Joe_CannotWearHats</defName>
 		<displayCategory>Miscellaneous</displayCategory>
@@ -24,7 +24,7 @@
 		        <backgroundPathXenogenes>UI/Genes/Xenogene</backgroundPathXenogenes>
 			</li>
 		</modExtensions>
-	</GeneDef>
+	</GeneDef>-->
 
 
 </Defs>

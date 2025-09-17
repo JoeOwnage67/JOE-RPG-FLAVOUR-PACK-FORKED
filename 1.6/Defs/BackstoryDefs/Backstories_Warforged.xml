@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
 
-	<BackstoryDef>
+	<!--<BackstoryDef>
 		<defName>Forgotten_Warforged</defName>
 		<title>Warforged</title>
 		<titleShort>Warforged</titleShort>
@@ -198,6 +198,6 @@
 		<spawnCategories>
 			<li>Joe_Warforged</li>
 		</spawnCategories>
-	</BackstoryDef>
+	</BackstoryDef>-->
 
 </Defs>

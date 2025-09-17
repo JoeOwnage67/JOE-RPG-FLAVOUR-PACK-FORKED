@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-	<HediffDef>
+	<!--<HediffDef>
   		<defName>JoeHediff_ObstructedVision</defName>
   		<label>Obstructed Vision</label>
 		<defaultLabelColor>(255,123,0)</defaultLabelColor>
@@ -19,5 +19,5 @@
 				</capMods> 
 			</li>
   		</stages>
-	</HediffDef>
+	</HediffDef>-->
 </Defs>

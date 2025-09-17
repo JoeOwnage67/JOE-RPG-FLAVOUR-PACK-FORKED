@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
 
-	<!-- tordune head gene -->
+	<!-- tordune head gene
 	<GeneDef ParentName="GeneJawBase">
 		<defName>JoeGene_TorduneHead</defName>
 		<label>tordune head</label>
@@ -43,9 +43,9 @@
 		        <backgroundPathXenogenes>UI/Genes/Xenogene</backgroundPathXenogenes>
 		    </li>
 		</modExtensions>
-	</GeneDef>
+	</GeneDef> -->
 
-	<!-- Obstructed Vision gene -->
+	<!-- Obstructed Vision gene
 	<GeneDef>
 	    <defName>JoeGene_ObstructedVision</defName>
 	    <label>obstructed vision</label>
@@ -77,5 +77,5 @@
 				<hediffToWholeBody>JoeHediff_ObstructedVision</hediffToWholeBody>
 		    </li>
 		</modExtensions>	
-	</GeneDef>
+	</GeneDef> -->
 </Defs>

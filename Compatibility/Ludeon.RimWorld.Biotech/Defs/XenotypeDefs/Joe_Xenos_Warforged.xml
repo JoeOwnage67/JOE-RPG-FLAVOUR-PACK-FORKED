@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	
-<!-- Joe_WarforgedHead -->
+<!-- Joe_WarforgedHead 
 	<GeneDef ParentName="GeneJawBase">
 		<defName>Joe_WarforgedHead</defName>
 		<label>warforged head</label>
@@ -53,9 +53,9 @@
       <Male>Things/Pawn/Humanlike/Bodies/InfinityBody/InfinityBody_Male</Male>
       <Female>Things/Pawn/Humanlike/Bodies/InfinityBody/InfinityBody_Female</Female>
     </bodyTypeGraphicPaths>
-  </FurDef>
+  </FurDef>-->
 
-<!-- WarforgedBody -->
+<!-- WarforgedBody 
 <GeneDef ParentName="GeneBodyBase">
 		<defName>Joe_WarforgedBody</defName>
 		<label>warforged body</label>
@@ -85,11 +85,11 @@
 		        <backgroundPathXenogenes>UI/Genes/Xenogene</backgroundPathXenogenes>				
 		    </li>
 		</modExtensions> 	
-	</GeneDef>
+	</GeneDef>-->
 
 <!-- Warforged Head -->
 
-	<!-- Warhead1 -->
+	<!-- Warhead1 
 	<HeadTypeDef ParentName="AverageBase">
 	    	<defName>Joe_Warhead1</defName>
 	      	<graphicPath>Things/Pawn/Humanlike/Heads/InfinityHead/Infinity_Head1</graphicPath>
@@ -97,9 +97,9 @@
 	      	<requiredGenes>
 	        	<li>Joe_WarforgedHead</li>
 	      	</requiredGenes>
-	</HeadTypeDef>
+	</HeadTypeDef>-->
 
-	<!-- Warhead2 -->
+	<!-- Warhead2 
 	<HeadTypeDef ParentName="AverageBase">
 	    	<defName>Joe_Warhead2</defName>
 	      	<graphicPath>Things/Pawn/Humanlike/Heads/InfinityHead/Infinity_Head2</graphicPath>
@@ -107,9 +107,9 @@
 	      	<requiredGenes>
 	        	<li>Joe_WarforgedHead</li>
 	      	</requiredGenes>
-	</HeadTypeDef>
+	</HeadTypeDef>-->
 
-	<!-- Warhead3 -->
+	<!-- Warhead3
 	<HeadTypeDef ParentName="AverageBase">
 	    	<defName>Joe_Warhead3</defName>
 	      	<graphicPath>Things/Pawn/Humanlike/Heads/InfinityHead/Infinity_Head3</graphicPath>
@@ -117,9 +117,9 @@
 	      	<requiredGenes>
 	        	<li>Joe_WarforgedHead</li>
 	      	</requiredGenes>
-	</HeadTypeDef>
+	</HeadTypeDef> -->
 
-	<XenotypeDef MayRequire="sarg.alphagenes,RedMattis.BigSmall.Core">
+	<!-- <XenotypeDef MayRequire="sarg.alphagenes,RedMattis.BigSmall.Core">
 		<defName>Joe_Warforged</defName>
 		<label>warforged</label>
         <description>Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond the war. A warforged can be a steadfast ally, a cold-hearted killing machine, or a visionary in search of purpose and meaning.</description>
@@ -156,7 +156,7 @@
 				<li>DiseaseFree</li>
 				<li>Immunity_SuperStrong</li>              
 		</genes>
-    </XenotypeDef>
+    </XenotypeDef>-->
 
 	
 
