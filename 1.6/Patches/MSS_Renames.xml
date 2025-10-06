@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Messiah Flavour Pack</li>
+		</mods>
+		<nomatch Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="SentienceCatalyst"]/label</xpath>
+					<value>
+						<label>Potion of Animal Intelligence</label>
+					</value>
+				</li>
+
+				<li Class = "PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="SentienceCatalyst"]/description</xpath>
+					<value>
+						<description>A single-use potion given to a tamed animal that increases their mental fortitude and allows them to understand the world on a more human level, reducing their wildness and increasing their trainable potential.\n\nThe effect does not stack.</description>
+					</value>
+				</li>
+			</operations>
+		</nomatch>
+	</Operation>
+</Patch>
